@@ -1,0 +1,15 @@
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.csproj.AssemblyReference.cache
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.AssemblyInfoInputs.cache
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.AssemblyInfo.cs
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.csproj.CoreCompileInputs.cache
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/bin/Debug/net7.0/JLPM_1277023L4
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/bin/Debug/net7.0/JLPM_1277023L4.deps.json
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/bin/Debug/net7.0/JLPM_1277023L4.runtimeconfig.json
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/bin/Debug/net7.0/JLPM_1277023L4.dll
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/bin/Debug/net7.0/JLPM_1277023L4.pdb
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.dll
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/refint/JLPM_1277023L4.dll
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.pdb
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/JLPM_1277023L4.genruntimeconfig.cache
+/Users/leonardomatias/Desktop/Semana_7Laboratorio_1277023_Leonardo Puac/JLPM_1277023L4/JLPM_1277023L4/obj/Debug/net7.0/ref/JLPM_1277023L4.dll

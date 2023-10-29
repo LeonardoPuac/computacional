@@ -1,0 +1,15 @@
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/bin/Debug/net7.0/TAREA_SEMANA_12
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/bin/Debug/net7.0/TAREA_SEMANA_12.deps.json
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/bin/Debug/net7.0/TAREA_SEMANA_12.runtimeconfig.json
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/bin/Debug/net7.0/TAREA_SEMANA_12.dll
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/bin/Debug/net7.0/TAREA_SEMANA_12.pdb
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.csproj.AssemblyReference.cache
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.AssemblyInfoInputs.cache
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.AssemblyInfo.cs
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.csproj.CoreCompileInputs.cache
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.dll
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/refint/TAREA_SEMANA_12.dll
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.pdb
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/TAREA_SEMANA_12.genruntimeconfig.cache
+/Users/leonardomatias/Desktop/Semana_12_127702323_Tarea/Semana_12_1277023_Tarea/TAREA_SEMANA_12/TAREA_SEMANA_12/obj/Debug/net7.0/ref/TAREA_SEMANA_12.dll

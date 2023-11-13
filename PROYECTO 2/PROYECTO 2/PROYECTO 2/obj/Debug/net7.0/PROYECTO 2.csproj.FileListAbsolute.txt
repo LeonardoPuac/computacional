@@ -1,0 +1,15 @@
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.csproj.AssemblyReference.cache
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.AssemblyInfoInputs.cache
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.AssemblyInfo.cs
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.csproj.CoreCompileInputs.cache
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/bin/Debug/net7.0/PROYECTO 2
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/bin/Debug/net7.0/PROYECTO 2.deps.json
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/bin/Debug/net7.0/PROYECTO 2.runtimeconfig.json
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/bin/Debug/net7.0/PROYECTO 2.dll
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/bin/Debug/net7.0/PROYECTO 2.pdb
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.dll
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/refint/PROYECTO 2.dll
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.pdb
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/PROYECTO 2.genruntimeconfig.cache
+/Users/leonardomatias/Desktop/PROYECTO 2/PROYECTO 2/PROYECTO 2/obj/Debug/net7.0/ref/PROYECTO 2.dll
